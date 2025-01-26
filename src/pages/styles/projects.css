@@ -29,7 +29,7 @@
 
 @media (max-width: 600px) {
 	.projects-container {
-		padding-top: 60px;
+		padding-top: 40px;
 	}
 
 	.projects-project {
@@ -37,7 +37,9 @@
 	}
 	.project-description
 {
-	font-size: 10px;
-
+	font-size: 7px;
+}
+.project-link{
+	font-size: 5px;
 }
 }
