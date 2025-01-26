@@ -5,17 +5,8 @@
 }
 
 .work {
-	display: flex;
-	padding-bottom: 40px;
+	padding-bottom: 60px;
 	width: 400px;
-}
-
-.work-image {
-	height: 30px;
-	width: 30px;
-	border-radius: 50%;
-	outline: 6px solid white;
-	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.25);
 }
 
 .work-title {
@@ -38,7 +29,11 @@
 	position: absolute;
 	width: 350px;
 	font-size: 12px;
-	padding-top: 20px;
-	text-align: right;
+	margin-left: 50px;
 	color: var(--tertiary-color);
+}
+.star-icon {
+	margin-right: 8px; /* Add some spacing between the star and the text */
+	color: #ffd700; /* Gold color for the star */
+	font-size: 14px; /* Adjust the size of the star */
 }

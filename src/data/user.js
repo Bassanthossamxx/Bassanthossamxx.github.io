@@ -1,18 +1,18 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portflio Bav",
+		name: "Bassant Hossam.",
+		email: "bassant.hos04@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://x.com/bassanthss?s=21",
+		github: "https://github.com/Bassanthossamxx",
+		linkedin: "https://www.linkedin.com/in/bassant-hossam-5a4177264/",
+		instagram: "https://www.instagram.com/bassanthossamxx?igsh=MWsyZXVycG8xYmI5bg%3D%3D&utm_source=qr",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		facebook: "https://www.facebook.com/share/15NGLUpvVE/?mibextid=wwXIfr",
 	},
 
 	homepage: {
@@ -23,35 +23,29 @@ const INFO = {
 	  
 	  
 
-	about: {
-		title: "I’m Bassant Hossam , tiny Software Engineer, try create small things.",
+	  about: {
+		title: "I’m Bassant Hossam, Tiny Software Engineer, Trying to Create Small Things",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	},
+		  "Backend Developer, ex-Frontend with React, and passionate about adding magic to software. I’m a third-year Computer Science student at Benha National University, focusing on software and app development. My journey has led me to become a Co-lead at GDG BNU Backend and a Founding Engineer at Byte Hive as a Backend Developer using Django. I’ve worked on several open-source projects and I’m always exploring ways to improve and collaborate with others. If you’re interested in my work, feel free to check out the code and offer any suggestions! I love learning from others and building things together.",
+	  },	  
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "E-Commerce Application",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			  "A fully functional e-commerce platform built with React. Users can browse products, manage their shopping carts, and securely check out.",
+			logo: "https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://github.com/Bassanthossamxx/Ecommerce-website.git", 
+		  },		  
 
 		{
-			title: "Project 2",
+			title: "Event Management System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			  "A Django-based Event Management System that allows users to create, edit, delete, and filter events by category. Features an intuitive interface and easy-to-use forms.",
+			logo: "https://camo.githubusercontent.com/0f0e15aef74036399b03911fdc5b9765dd4faf8e09a4a28499cbede28a2b5f48/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646a616e676f",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Bassanthossamxx/Event-Management-System-Django.git",
 		},
 
 		{

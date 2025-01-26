@@ -6,7 +6,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
 	faTwitter,
 	faGithub,
-	faStackOverflow,
 	faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -20,6 +19,7 @@ import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/homepage.css";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons/faLinkedin";
 
 const Homepage = () => {
 	const [stayLogo, setStayLogo] = useState(false);
@@ -133,12 +133,12 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href={INFO.socials.stackoverflow}
+								href={INFO.socials.linkedin}
 								target="_blank"
 								rel="noreferrer"
 							>
 								<FontAwesomeIcon
-									icon={faStackOverflow}
+									icon={faLinkedin}
 									className="homepage-social-icon"
 								/>
 							</a>
