@@ -109,8 +109,16 @@
 @media (max-width: 600px) {
 	.about-container {
 		padding-top: 60px;
+		margin-left: 30px;
 	}
-
+.title
+{
+	font-size: 30px !important;
+}
+.subtitle
+{
+	font-size: 15px !important;
+}
 	.about-image-container {
 		width: 80%;
 	}
