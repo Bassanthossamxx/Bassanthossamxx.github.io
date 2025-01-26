@@ -10,7 +10,7 @@
 }
 
 .work-title {
-	font-size: 15px;
+	font-size: 13px;
 	font-weight: 700;
 	padding-left: 20px;
 	margin-top: -3px;
@@ -19,7 +19,7 @@
 
 .work-subtitle {
 	position: absolute;
-	font-size: 12px;
+	font-size: 10px;
 	color: var(--secondary-color);
 	padding-top: 22px;
 	padding-left: 50px;
