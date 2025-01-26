@@ -35,4 +35,9 @@
 	.projects-project {
 		width: calc(100% / 2);
 	}
+	.project-description
+{
+	font-size: 10px;
+
+}
 }
