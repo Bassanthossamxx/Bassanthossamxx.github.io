@@ -36,3 +36,14 @@
 	justify-content: flex-start;
 	align-items: center;
 }
+.contact-subtitle a {
+	color: #007bff; /* Blue color for links */
+	text-decoration: none; /* Remove underline */
+	font-weight: 500; /* Slightly bolder text */
+	transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .contact-subtitle a:hover {
+	color: #0056b3; /* Darker blue when hovered */
+	font-weight: 800; /* Underline on hover */
+  }

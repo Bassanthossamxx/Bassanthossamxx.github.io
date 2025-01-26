@@ -21,6 +21,11 @@
 	margin: 0;
 	padding-top: 120px;
 }
+.project-description
+{
+	font-size: 13px;
+
+}
 
 @media (max-width: 600px) {
 	.projects-container {

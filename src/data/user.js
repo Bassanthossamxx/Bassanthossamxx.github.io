@@ -31,49 +31,45 @@ const INFO = {
 
 	projects: [
 		{
-			title: "E-Commerce Application",
-			description:
-			  "A fully functional e-commerce platform built with React. Users can browse products, manage their shopping carts, and securely check out.",
-			logo: "https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374",
-			linkText: "View Project",
-			link: "https://github.com/Bassanthossamxx/Ecommerce-website.git", 
-		  },		  
-
-		{
 			title: "Event Management System",
 			description:
 			  "A Django-based Event Management System that allows users to create, edit, delete, and filter events by category. Features an intuitive interface and easy-to-use forms.",
 			logo: "https://camo.githubusercontent.com/0f0e15aef74036399b03911fdc5b9765dd4faf8e09a4a28499cbede28a2b5f48/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646a616e676f",
-			linkText: "View Project",
+			linkText: "GitHub Repository",
 			link: "https://github.com/Bassanthossamxx/Event-Management-System-Django.git",
 		},
+		{
+			title: "E-Commerce Application",
+			description:
+			  "A fully functional e-commerce platform built with React. Users can browse products, manage their shopping carts, and securely check out.",
+			logo: "https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374",
+			linkText: "GitHub Repository",
+			link: "https://github.com/Bassanthossamxx/Ecommerce-website.git", 
+		  },
+		  {
+			title: "Ecommerce-DBMS Project",
+			description: "A database management system for an e-commerce platform built using PostgreSQL and designed with dbdiagram.io. It includes a well-structured schema to manage customers, orders, products, payments, and categories.",
+			logo: "https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573",
+			linkText: "GitHub Repository",
+			link: "https://github.com/Bassanthossamxx/Ecommerce-DBMS.git"
+		},		  
 
 		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			title: "Yummy Website",
+			description: "A native food website built with HTML, CSS, Bootstrap, and JavaScript, featuring dynamic content powered by APIs. Users can explore and search meals by name, category, area, and ingredients through an interactive interface.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			linkText: "GitHub Repository",
+			links: "https://github.com/Bassanthossamxx/Yummy-Food-Website.git"
+		},				
+		
 
 		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			title: "Nuxeo UI Layout",
+			description: "A custom UI layout for a Nuxeo project, enhancing media file management with HTML, CSS, and native JavaScript. Features include dynamic thumbnail views, metadata editing, image manipulation, and location-based tagging.",
+			logo: "https://image-service.leadiq.com/companylogo?linkedinId=37930",
+			linkText: "GitHub Repository",
+			link: "https://github.com/Bassanthossamxx/Nuxeo-UI-layout"
+		},		
 	],
 };
 
