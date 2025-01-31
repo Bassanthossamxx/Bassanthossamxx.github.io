@@ -24,7 +24,7 @@
 }
 
 .homepage-title {
-	margin-top: -40px;
+	margin-top: -20px;
 	width: 85% !important;
 }
 
@@ -109,13 +109,13 @@
 
 	.homepage-title {
 		width: 100% !important;
-		margin-top: 20px;
+		margin-top: 60px;
 		order: 2;
 	}
 
 	.homepage-subtitle {
 		width: 100% !important;
-		margin-top: 50px;
+		margin-top: 70px;
 		order: 3;
 	}
 
